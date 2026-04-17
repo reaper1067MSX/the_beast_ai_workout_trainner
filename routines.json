@@ -1,0 +1,737 @@
+[
+  {
+    "id": "BUILD_CHEST_TRIS",
+    "name": "Build: Chest/Tris",
+    "block": "Build",
+    "rounds": [
+      {
+        "type": "Single Set",
+        "exercises": [
+          { "name": "Dumbbell Chest Press", "reps": [15, 12, 8, 8] }
+        ]
+      },
+      {
+        "type": "Super Set",
+        "exercises": [
+          { "name": "Incline Dumbbell Fly", "reps": [15, 12, 8, 8] },
+          { "name": "Incline Dumbbell Press", "reps": [15, 12, 8, 8] }
+        ]
+      },
+      {
+        "type": "Giant Set",
+        "exercises": [
+          { "name": "Close Grip Press", "reps": [15, 12, 8] },
+          { "name": "Partial Chest Fly", "reps": [15, 12, 8] },
+          { "name": "Decline Push-Up", "reps": [15, 12, 8] }
+        ]
+      },
+      {
+        "type": "Single Set",
+        "exercises": [
+          { "name": "Tricep Extension", "reps": [15, 12, 8, 8] }
+        ]
+      }
+    ],
+    "difficulty_rules": {
+      "NewComer": "Perform first 2 sets only (15 and 12 reps).",
+      "Advanced": "Perform all sets, skip the final drop-set if applicable.",
+      "THE_BEAST": "Complete the full worksheet as shown in PDF."
+    }
+  },
+  {
+    "id": "BUILD_BACK_BIS",
+    "name": "Build: Back/Bis",
+    "block": "Build",
+    "rounds": [
+      {
+        "type": "Single Set",
+        "exercises": [
+          { "name": "Deadlift", "reps": [15, 12, 8, 8] }
+        ]
+      },
+      {
+        "type": "Super Set",
+        "exercises": [
+          { "name": "Dumbbell Pull-Over", "reps": [15, 12, 8, 8] },
+          { "name": "Pull-Up", "reps": [15, 12, 10, 10] }
+        ]
+      },
+      {
+        "type": "Giant Set",
+        "exercises": [
+          { "name": "EZ Bar Row", "reps": [15, 12, 8] },
+          { "name": "One-Arm Row", "reps": [15, 12, 8] },
+          { "name": "Reverse Fly", "reps": [15, 12, 8] }
+        ]
+      },
+      {
+        "type": "Single Set",
+        "exercises": [
+          { "name": "Close-Grip Chin-Up", "reps": [30, 30, 30] }
+        ]
+      },
+      {
+        "type": "Single Set",
+        "exercises": [
+          { "name": "Seated Bicep Curl", "reps": [15, 12, 8, 8] }
+        ]
+      },
+      {
+        "type": "Single Set",
+        "exercises": [
+          { "name": "1,1,2 Hammer Curl", "reps": [15, 12, 8, 8] }
+        ]
+      },
+      {
+        "type": "Single Set",
+        "exercises": [
+          { "name": "Neutral EZ Bar Curl", "reps": [15, 12, 8, 8] }
+        ]
+      },
+      {
+        "type": "Single Set",
+        "exercises": [
+          { "name": "Airplane Cobra", "reps": [30, 30] }
+        ]
+      }
+    ],
+    "difficulty_rules": {
+      "NewComer": "Perform first 2 sets of each round.",
+      "Advanced": "Complete all sets with moderate weight.",
+      "THE_BEAST": "Go heavy and complete all sets including holds."
+    }
+  },
+  {
+    "id": "BUILD_LEGS",
+    "name": "Build: Legs",
+    "block": "Build",
+    "rounds": [
+      {
+        "type": "Single Set",
+        "exercises": [
+          { "name": "Sumo Squat", "reps": [15, 12, 8, 8] }
+        ]
+      },
+      {
+        "type": "Super Set",
+        "exercises": [
+          { "name": "Alternating Lunge", "reps": [15, 12, 8, 8] },
+          { "name": "Step-Up to Reverse Lunge", "reps": [15, 12, 8, 8] }
+        ]
+      },
+      {
+        "type": "Giant Set",
+        "exercises": [
+          { "name": "Parallel Squat", "reps": [15, 12, 8] },
+          { "name": "Bulgarian Squat", "reps": [15, 12, 8] },
+          { "name": "Straight Leg Deadlift", "reps": [15, 12, 8] }
+        ]
+      },
+      {
+        "type": "Single Set",
+        "exercises": [
+          { "name": "Single Leg Calf Raise", "reps": [15, 12, 8] }
+        ]
+      },
+      {
+        "type": "Single Set",
+        "exercises": [
+          { "name": "Seated Calf Raise", "reps": [15, 12, 8] }
+        ]
+      },
+      {
+        "type": "Single Set",
+        "exercises": [
+          { "name": "In and Outs", "reps": [15, 12, 8] }
+        ]
+      }
+    ],
+    "difficulty_rules": {
+      "NewComer": "Perform first 2 sets.",
+      "Advanced": "Complete all sets.",
+      "THE_BEAST": "Use maximum weight for the 8-rep sets."
+    }
+  },
+  {
+    "id": "BUILD_SHOULDERS",
+    "name": "Build: Shoulders",
+    "block": "Build",
+    "rounds": [
+      {
+        "type": "Single Set",
+        "exercises": [
+          { "name": "Shoulder Press", "reps": [15, 12, 8, 8] }
+        ]
+      },
+      {
+        "type": "Super Set",
+        "exercises": [
+          { "name": "Lateral Raise", "reps": [15, 12, 8, 8] },
+          { "name": "Upright Row", "reps": [15, 12, 8, 8] }
+        ]
+      },
+      {
+        "type": "Giant Set",
+        "exercises": [
+          { "name": "EZ Bar Underhand Press", "reps": [15, 12, 8] },
+          { "name": "1,1,2 Front Raise", "reps": [15, 12, 8] },
+          { "name": "Rear Delt Raise", "reps": [15, 12, 8] }
+        ]
+      },
+      {
+        "type": "Super Set",
+        "exercises": [
+          { "name": "Standing Dumbbell Shrug", "reps": [15, 12, 8, 8] },
+          { "name": "Dumbbell Scap Trap", "reps": [15, 12, 8, 8] }
+        ]
+      },
+      {
+        "type": "Super Set",
+        "exercises": [
+          { "name": "Sagi Six-Way", "reps": [12, 8] },
+          { "name": "Tuck & Roll", "reps": [15, 15] }
+        ]
+      }
+    ],
+    "difficulty_rules": {
+      "NewComer": "2 sets for Single and Super sets.",
+      "Advanced": "Complete all sets including Giant set.",
+      "THE_BEAST": "Heavy weight for all reps, strict form."
+    }
+  },
+  {
+    "id": "BULK_CHEST",
+    "name": "Bulk: Chest",
+    "block": "Bulk",
+    "rounds": [
+      {
+        "type": "Super Set",
+        "exercises": [
+          { "name": "Incline Dumbbell Fly", "reps": [15, 12, 8, 8] },
+          { "name": "Incline Dumbbell Press", "reps": [15, 12, 8, 8] }
+        ]
+      },
+      {
+        "type": "Force Set",
+        "exercises": [
+          { "name": "Chest Press w/ Rotation", "reps": [5, 5, 5, 5, 5] }
+        ]
+      },
+      {
+        "type": "Progressive Set",
+        "exercises": [
+          { "name": "Incline Dumbbell Press", "reps": [15, 12, 8, 8, 12, 15] }
+        ]
+      },
+      {
+        "type": "Combo Set",
+        "exercises": [
+          { "name": "Close-Grip Press to Fly", "reps": [15, 12, 8] }
+        ]
+      },
+      {
+        "type": "Multi Set",
+        "exercises": [
+          { "name": "Decline Push-Up", "reps": [15, 12, 8] },
+          { "name": "Cobra to Airplane", "reps": [15, 12, 8] },
+          { "name": "Russian Twist", "reps": [30] }
+        ]
+      }
+    ],
+    "difficulty_rules": {
+      "NewComer": "Perform Super sets and Progressive set only.",
+      "Advanced": "Complete all rounds, adjust weight for Force sets.",
+      "THE_BEAST": "Maximum intensity, minimal rest between Multi-set exercises."
+    }
+  },
+  {
+    "id": "BULK_BACK",
+    "name": "Bulk: Back",
+    "block": "Bulk",
+    "rounds": [
+      {
+        "type": "Super Set",
+        "exercises": [
+          { "name": "Dumbbell Pull-Over", "reps": [15, 12, 8, 8] },
+          { "name": "Pull-Up", "reps": [15, 12, 10, 10] }
+        ]
+      },
+      {
+        "type": "Progressive Set",
+        "exercises": [
+          { "name": "Reverse Grip Row", "reps": [15, 12, 8, 8, 12, 15] }
+        ]
+      },
+      {
+        "type": "Force Set",
+        "exercises": [
+          { "name": "One-Arm Row", "reps": [5, 5, 5, 5, 5] }
+        ]
+      },
+      {
+        "type": "Single Set",
+        "exercises": [
+          { "name": "Deadlift", "reps": [15, 12, 8] }
+        ]
+      },
+      {
+        "type": "Super Set",
+        "exercises": [
+          { "name": "Reverse Fly", "reps": [15, 12] },
+          { "name": "Plank Rotation", "reps": [30, 30] }
+        ]
+      }
+    ],
+    "difficulty_rules": {
+      "NewComer": "First 2 sets of each round.",
+      "Advanced": "All sets, use weights that challenge the 8-rep marks.",
+      "THE_BEAST": "Heavy Deadlifts and controlled Plank Rotations."
+    }
+  },
+  {
+    "id": "BULK_LEGS",
+    "name": "Bulk: Legs",
+    "block": "Bulk",
+    "rounds": [
+      {
+        "type": "Single Set",
+        "exercises": [
+          { "name": "Front to Back Lunge", "reps": [12, 10, 8] }
+        ]
+      },
+      {
+        "type": "Progressive Set",
+        "exercises": [
+          { "name": "Squat", "reps": [15, 12, 8, 8, 12, 15] }
+        ]
+      },
+      {
+        "type": "Force Set",
+        "exercises": [
+          { "name": "Full to 1/2 Sumo Squat", "reps": [5, 5, 5, 5, 5] }
+        ]
+      },
+      {
+        "type": "Progressive Set",
+        "exercises": [
+          { "name": "Split Squat w/ EZ Bar", "reps": [15, 12, 8, 8, 12, 15] }
+        ]
+      },
+      {
+        "type": "Super Set",
+        "exercises": [
+          { "name": "Stiff Leg Deadlift", "reps": [15, 12, 8, 8] },
+          { "name": "Alt. Side Squat", "reps": [15, 12, 8, 8] }
+        ]
+      },
+      {
+        "type": "Super Set",
+        "exercises": [
+          { "name": "Calf Raise", "reps": [50, 50, 30, 30] }
+        ]
+      }
+    ],
+    "difficulty_rules": {
+      "NewComer": "Perform first 2 sets of each round.",
+      "Advanced": "Complete all sets, watch form on Split Squats.",
+      "THE_BEAST": "Heavy Squats and maximal Calf Raise reps."
+    }
+  },
+  {
+    "id": "BULK_SHOULDERS",
+    "name": "Bulk: Shoulders",
+    "block": "Bulk",
+    "rounds": [
+      {
+        "type": "Super Set",
+        "exercises": [
+          { "name": "Lateral Raise", "reps": [15, 12, 8, 8] },
+          { "name": "Arnold Press", "reps": [15, 12, 8, 8] }
+        ]
+      },
+      {
+        "type": "Progressive Set",
+        "exercises": [
+          { "name": "Upright Row", "reps": [15, 12, 8, 8, 12, 15] }
+        ]
+      },
+      {
+        "type": "Super Set",
+        "exercises": [
+          { "name": "Alt. Front Raise", "reps": [15, 12, 8, 8] },
+          { "name": "Plate Twist-Twist", "reps": [10, 10, 10, 10] }
+        ]
+      },
+      {
+        "type": "Progressive Set",
+        "exercises": [
+          { "name": "Reverse Fly", "reps": [15, 12, 8, 8, 12, 15] }
+        ]
+      },
+      {
+        "type": "Super Set",
+        "exercises": [
+          { "name": "Superman Stretch", "reps": [10, 10, 30, 30] },
+          { "name": "Plank Twist-Twist", "reps": [30, 30] }
+        ]
+      }
+    ],
+    "difficulty_rules": {
+      "NewComer": "Focus on Arnold Press and Upright Row form.",
+      "Advanced": "All sets, strict tension on Reverse Fly.",
+      "THE_BEAST": "Go heavy on Arnold Press and Upright Row."
+    }
+  },
+  {
+    "id": "BULK_ARMS_ABS",
+    "name": "Bulk: Arms & Abs",
+    "block": "Bulk",
+    "rounds": [
+      {
+        "type": "Progressive Set",
+        "exercises": [
+          { "name": "Standing Curl", "reps": [15, 12, 8, 8, 12, 15] }
+        ]
+      },
+      {
+        "type": "Single Set",
+        "exercises": [
+          { "name": "Tricep Extension", "reps": [15, 12, 8, 8] }
+        ]
+      },
+      {
+        "type": "Force Set",
+        "exercises": [
+          { "name": "Wide EZ Bar Curl", "reps": [5, 5, 5, 5, 5] }
+        ]
+      },
+      {
+        "type": "Single Set",
+        "exercises": [
+          { "name": "Skull Crusher", "reps": [15, 12, 8, 8] }
+        ]
+      },
+      {
+        "type": "Progressive Set",
+        "exercises": [
+          { "name": "Hammer Curl", "reps": [15, 12, 8, 8, 12, 15] }
+        ]
+      },
+      {
+        "type": "Progressive Set",
+        "exercises": [
+          { "name": "Tricep Kickback", "reps": [15, 12, 8, 8, 12, 15] }
+        ]
+      },
+      {
+        "type": "Circuit",
+        "exercises": [
+          { "name": "Russian Twist", "reps": [20] },
+          { "name": "Weighted Crunch", "reps": [30] }
+        ]
+      }
+    ],
+    "difficulty_rules": {
+      "NewComer": "2 sets on Progressive and Single rounds.",
+      "Advanced": "Complete the circuit once.",
+      "THE_BEAST": "Complete the circuit three times."
+    }
+  },
+  {
+    "id": "REST",
+    "name": "Rest Day",
+    "block": "Any",
+    "rounds": [],
+    "difficulty_rules": {
+      "All": "Recover and hydrate. Active recovery (walking) is optional."
+    }
+  },
+  {
+    "id": "BEAST_TOTAL_BODY",
+    "name": "Beast: Total Body",
+    "block": "Build",
+    "rounds": [
+      {
+        "type": "Circuit",
+        "exercises": [
+          { "name": "Pull-Up", "reps": [15, 15] },
+          { "name": "Push-Up", "reps": [15, 15] },
+          { "name": "Squat", "reps": [15, 15] },
+          { "name": "Crunch", "reps": [15, 15] }
+        ]
+      },
+      {
+        "type": "Circuit",
+        "exercises": [
+          { "name": "Incline Press", "reps": [15, 15] },
+          { "name": "Bent-Over Row", "reps": [15, 15] },
+          { "name": "Reverse Alternating Lunge", "reps": [15, 15] },
+          { "name": "Plank Twist-Twist", "reps": [15, 15] }
+        ]
+      },
+      {
+        "type": "Circuit",
+        "exercises": [
+          { "name": "1,1,2 Military Press", "reps": [15, 15] },
+          { "name": "Post Delt Raise", "reps": [15, 15] },
+          { "name": "Stiff Leg Deadlift", "reps": [15, 15] },
+          { "name": "Russian Twist", "reps": [15, 15] }
+        ]
+      },
+      {
+        "type": "Circuit",
+        "exercises": [
+          { "name": "Bicep Curl-Up-Hammer Down", "reps": [15, 15] },
+          { "name": "Tricep Extension-Kickback", "reps": [15, 15] },
+          { "name": "Calf Raise-Weight at Shoulder", "reps": [15, 15] },
+          { "name": "Side Forearm Plank", "reps": [15, 15] }
+        ]
+      }
+    ],
+    "difficulty_rules": {
+      "NewComer": "Perform 1 set of each circuit.",
+      "Advanced": "Complete all circuits twice.",
+      "THE_BEAST": "Use challenging weights for all 15 reps."
+    }
+  },
+  {
+    "id": "LUCKY_7",
+    "name": "Lucky 7",
+    "block": "Any",
+    "rounds": [
+      {
+        "type": "Combo Set",
+        "exercises": [ { "name": "EZ Push-Up + Clean + Squat", "reps": [7, 7, 7, 7, 7, 7, 7] } ]
+      },
+      {
+        "type": "Combo Set",
+        "exercises": [ { "name": "Deadlift + Bent-Over Row", "reps": [7, 7, 7, 7, 7, 7, 7] } ]
+      },
+      {
+        "type": "Combo Set",
+        "exercises": [ { "name": "Skull Crusher + Press + Crunch", "reps": [7, 7, 7, 7, 7, 7, 7] } ]
+      },
+      {
+        "type": "Combo Set",
+        "exercises": [ { "name": "Curl + Military Press + EZ Squat", "reps": [7, 7, 7, 7, 7, 7, 7] } ]
+      },
+      {
+        "type": "Combo Set",
+        "exercises": [ { "name": "Delt Raise + Reverse Lunge", "reps": [7, 7, 7, 7, 7, 7, 7] } ]
+      },
+      {
+        "type": "Combo Set",
+        "exercises": [ { "name": "Lat Oblique Twist", "reps": [7, 7, 7, 7, 7, 7, 7] } ]
+      },
+      {
+        "type": "Combo Set",
+        "exercises": [ { "name": "Upright Row + Calf Raise", "reps": [7, 7, 7, 7, 7, 7, 7] } ]
+      }
+    ],
+    "difficulty_rules": {
+      "All": "Each combo is 7 rounds of 7 reps. Use a weight you can sustain."
+    }
+  },
+  {
+    "id": "TEMPO_BACK_BIS",
+    "name": "Tempo: Back/Bis",
+    "block": "Build",
+    "rounds": [
+      {
+        "type": "Tempo-Single Set",
+        "exercises": [
+          { "name": "Dumbbell Pull-Over", "reps": [15, 12, 8] },
+          { "name": "Wide Plank In & Out", "reps": [10] }
+        ]
+      },
+      {
+        "type": "Tempo-Single Set",
+        "exercises": [
+          { "name": "Pull-Up", "reps": [10, 10, 10] },
+          { "name": "Hanging Circle", "reps": [10] }
+        ]
+      },
+      {
+        "type": "Tempo-Single Set",
+        "exercises": [
+          { "name": "Reverse Bent-Over Row", "reps": [15, 12, 8] },
+          { "name": "Lat Oblique Twist", "reps": [10] }
+        ]
+      },
+      {
+        "type": "Tempo-Single Set",
+        "exercises": [
+          { "name": "Preacher Curl", "reps": [15, 12, 8] },
+          { "name": "Hanging Curl", "reps": [10] }
+        ]
+      },
+      {
+        "type": "Tempo-Single Set",
+        "exercises": [
+          { "name": "All-Angle Bicep", "reps": [15, 12, 8] },
+          { "name": "Speed Mountain Climber", "reps": [30] }
+        ]
+      }
+    ],
+    "difficulty_rules": {
+      "All": "Tempo sets use 3 sec up, 3 sec down. Isometric holds are key."
+    }
+  },
+  {
+    "id": "TEMPO_CHEST_TRIS",
+    "name": "Tempo: Chest/Tris",
+    "block": "Build",
+    "rounds": [
+      {
+        "type": "Tempo-Single Set",
+        "exercises": [
+          { "name": "Dumbbell Chest Press", "reps": [15, 12, 8] },
+          { "name": "Figure 4 Crunch", "reps": [10] }
+        ]
+      },
+      {
+        "type": "Tempo-Single Set",
+        "exercises": [
+          { "name": "Incline Dumbbell Press", "reps": [15, 12, 8] },
+          { "name": "Cricket Crunch", "reps": [10] }
+        ]
+      },
+      {
+        "type": "Tempo-Single Set",
+        "exercises": [
+          { "name": "Incline Dumbbell Fly", "reps": [15, 12, 8] },
+          { "name": "Tempo Plank", "reps": [30] }
+        ]
+      },
+      {
+        "type": "Tempo-Single Set",
+        "exercises": [
+          { "name": "Skull Crusher", "reps": [15, 12, 8] },
+          { "name": "EZ Bar Crunch", "reps": [10] }
+        ]
+      },
+      {
+        "type": "Tempo-Super Set",
+        "exercises": [
+          { "name": "Tricep Kickback", "reps": [15, 12, 8] },
+          { "name": "Dips on Bench", "reps": [10, 10, 10] },
+          { "name": "Plank Twist-Twist", "reps": [30] }
+        ]
+      }
+    ],
+    "difficulty_rules": {
+      "All": "Focus on the slow eccentric phase (downward movement)."
+    }
+  },
+  {
+    "id": "BEAST_CARDIO",
+    "name": "Beast: Cardio",
+    "block": "Any",
+    "rounds": [
+      {
+        "type": "Single Set",
+        "exercises": [ { "name": "Squat to Overhead Press + Hold", "reps": [20, 20, 20] } ]
+      },
+      {
+        "type": "Single Set",
+        "exercises": [ { "name": "Toe Taps", "reps": [60] } ]
+      },
+      {
+        "type": "Single Set",
+        "exercises": [ { "name": "Squat to Jump Squat + Hold", "reps": [20, 20, 20] } ]
+      },
+      {
+        "type": "Single Set",
+        "exercises": [ { "name": "Mountain Climber + Row + Plank", "reps": [20, 20, 10] } ]
+      },
+      {
+        "type": "Single Set",
+        "exercises": [ { "name": "Sumo Squat + Hold", "reps": [20, 20, 20] } ]
+      },
+      {
+        "type": "Single Set",
+        "exercises": [ { "name": "Weighted Burpee", "reps": [30, 30] } ]
+      }
+    ],
+    "difficulty_rules": {
+      "All": "High intensity, minimal rest (10 sec) between rounds."
+    }
+  },
+  {
+    "id": "BEAST_ABS",
+    "name": "Beast: Abs",
+    "block": "Any",
+    "rounds": [
+      {
+        "type": "Circuit",
+        "exercises": [
+          { "name": "Crunches", "reps": [20] },
+          { "name": "Russian Twist", "reps": [20] },
+          { "name": "Hip Ups", "reps": [20] },
+          { "name": "Crossed Tuck-In", "reps": [20] },
+          { "name": "Cobra", "reps": [10] },
+          { "name": "Spiderman Crunch", "reps": [20] },
+          { "name": "Window Washers", "reps": [20] },
+          { "name": "Beast Abs (B-E-A-S-T)", "reps": [1] }
+        ]
+      }
+    ],
+    "difficulty_rules": {
+      "All": "Perform the circuit 1-3 times depending on energy levels."
+    }
+  },
+  {
+    "id": "BEAST_CARDIO_ABS",
+    "name": "Beast: Cardio & Abs",
+    "block": "Any",
+    "rounds": [
+      { "type": "Note", "exercises": [ { "name": "Perform Beast: Cardio followed by Beast: Abs.", "reps": [] } ] }
+    ],
+    "difficulty_rules": { "All": "Full 40-minute session." }
+  },
+  {
+    "id": "BEAST_CARDIO_ABS_OR_TOTAL_BODY",
+    "name": "Choice: Cardio/Abs OR Total Body",
+    "block": "Any",
+    "rounds": [
+      { "type": "Note", "exercises": [ { "name": "Perform either Beast: Cardio & Abs OR Beast: Total Body.", "reps": [] } ] }
+    ],
+    "difficulty_rules": { "All": "User choice based on equipment and energy." }
+  },
+  {
+    "id": "BUILD_BACK_BIS_OR_TEMPO",
+    "name": "Choice: Build Back/Bis OR Tempo",
+    "block": "Build",
+    "rounds": [
+      { "type": "Note", "exercises": [ { "name": "Perform either Build: Back/Bis OR Tempo: Back/Bis.", "reps": [] } ] }
+    ],
+    "difficulty_rules": { "All": "User choice." }
+  },
+  {
+    "id": "BUILD_CHEST_TRIS_OR_TEMPO",
+    "name": "Choice: Build Chest/Tris OR Tempo",
+    "block": "Build",
+    "rounds": [
+      { "type": "Note", "exercises": [ { "name": "Perform either Build: Chest/Tris OR Tempo: Chest/Tris.", "reps": [] } ] }
+    ],
+    "difficulty_rules": { "All": "User choice." }
+  },
+  {
+    "id": "BUILD_SHOULDERS_ABS",
+    "name": "Build: Shoulders & Abs",
+    "block": "Build",
+    "rounds": [
+      { "type": "Note", "exercises": [ { "name": "Perform Build: Shoulders followed by Beast: Abs.", "reps": [] } ] }
+    ],
+    "difficulty_rules": { "All": "Complete both routines." }
+  },
+  {
+    "id": "BULK_ARMS",
+    "name": "Bulk: Arms",
+    "block": "Bulk",
+    "rounds": [
+      { "type": "Note", "exercises": [ { "name": "Perform Bulk: Arms & Abs without the final Abs circuit.", "reps": [] } ] }
+    ],
+    "difficulty_rules": { "All": "Focus on arms only." }
+  }
+]

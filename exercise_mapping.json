@@ -1,0 +1,632 @@
+[
+  {
+    "exercise": "Pull-Up",
+    "muscles": ["Back", "Lats", "Biceps"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "pullup_bar",
+    "alternative_machine_id": "lat_pulldown"
+  },
+  {
+    "exercise": "Push-Up",
+    "muscles": ["Chest", "Triceps", "Shoulders"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "none",
+    "alternative_machine_id": "adjustable_bench"
+  },
+  {
+    "exercise": "Squat",
+    "muscles": ["Quads", "Glutes", "Hamstrings"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "squat_rack"
+  },
+  {
+    "exercise": "Dumbbell Chest Press",
+    "muscles": ["Chest", "Triceps", "Shoulders"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "adjustable_bench",
+    "alternative_machine_id": "dumbbells"
+  },
+  {
+    "exercise": "Incline Dumbbell Fly",
+    "muscles": ["Upper Chest"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "adjustable_bench",
+    "alternative_machine_id": "cable_machine"
+  },
+  {
+    "exercise": "Incline Dumbbell Press",
+    "muscles": ["Upper Chest", "Triceps"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "adjustable_bench",
+    "alternative_machine_id": "dumbbells"
+  },
+  {
+    "exercise": "Deadlift",
+    "muscles": ["Hamstrings", "Glutes", "Lower Back"],
+    "base_difficulty": "Advanced",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "squat_rack"
+  },
+  {
+    "exercise": "One-Arm Row",
+    "muscles": ["Back", "Lats"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "adjustable_bench",
+    "alternative_machine_id": "dumbbells"
+  },
+  {
+    "exercise": "EZ Bar Row",
+    "muscles": ["Back", "Lats"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "ez_bar",
+    "alternative_machine_id": "cable_machine"
+  },
+  {
+    "exercise": "Shoulder Press",
+    "muscles": ["Shoulders", "Triceps"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "adjustable_bench",
+    "alternative_machine_id": "dumbbells"
+  },
+  {
+    "exercise": "Lateral Raise",
+    "muscles": ["Side Delts"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "cable_machine"
+  },
+  {
+    "exercise": "Skull Crusher",
+    "muscles": ["Triceps"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "adjustable_bench",
+    "alternative_machine_id": "ez_bar"
+  },
+  {
+    "exercise": "Hammer Curl",
+    "muscles": ["Biceps", "Brachialis"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Arnold Press",
+    "muscles": ["Shoulders"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "adjustable_bench",
+    "alternative_machine_id": "dumbbells"
+  },
+  {
+    "exercise": "Sumo Squat",
+    "muscles": ["Inner Thighs", "Glutes"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Calf Raise",
+    "muscles": ["Calves"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "squat_rack"
+  },
+  {
+    "exercise": "Russian Twist",
+    "muscles": ["Abs", "Obliques"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "none",
+    "alternative_machine_id": "dumbbells"
+  },
+  {
+    "exercise": "In and Outs",
+    "muscles": ["Lower Abs"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "adjustable_bench",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Dumbbell Pull-Over",
+    "muscles": ["Back", "Chest"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "adjustable_bench",
+    "alternative_machine_id": "dumbbells"
+  },
+  {
+    "exercise": "Close-Grip Chin-Up",
+    "muscles": ["Biceps", "Back"],
+    "base_difficulty": "Advanced",
+    "primary_machine_id": "pullup_bar",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Seated Bicep Curl",
+    "muscles": ["Biceps"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "adjustable_bench",
+    "alternative_machine_id": "dumbbells"
+  },
+  {
+    "exercise": "1,1,2 Hammer Curl",
+    "muscles": ["Biceps"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Neutral EZ Bar Curl",
+    "muscles": ["Biceps"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "ez_bar",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Airplane Cobra",
+    "muscles": ["Lower Back"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "none",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Single Leg Calf Raise",
+    "muscles": ["Calves"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Seated Calf Raise",
+    "muscles": ["Calves"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "adjustable_bench",
+    "alternative_machine_id": "dumbbells"
+  },
+  {
+    "exercise": "Upright Row",
+    "muscles": ["Shoulders", "Traps"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "ez_bar",
+    "alternative_machine_id": "dumbbells"
+  },
+  {
+    "exercise": "EZ Bar Underhand Press",
+    "muscles": ["Shoulders"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "ez_bar",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "1,1,2 Front Raise",
+    "muscles": ["Front Delts"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Rear Delt Raise",
+    "muscles": ["Rear Delts"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Standing Dumbbell Shrug",
+    "muscles": ["Traps"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Dumbbell Scap Trap",
+    "muscles": ["Traps", "Upper Back"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "adjustable_bench",
+    "alternative_machine_id": "dumbbells"
+  },
+  {
+    "exercise": "Sagi Six-Way",
+    "muscles": ["Shoulders"],
+    "base_difficulty": "Advanced",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Tuck & Roll",
+    "muscles": ["Abs"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "none",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Chest Press w/ Rotation",
+    "muscles": ["Chest"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "cable_machine",
+    "alternative_machine_id": "dumbbells"
+  },
+  {
+    "exercise": "Close-Grip Press to Fly",
+    "muscles": ["Chest", "Triceps"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "adjustable_bench",
+    "alternative_machine_id": "dumbbells"
+  },
+  {
+    "exercise": "Cobra to Airplane",
+    "muscles": ["Lower Back"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "none",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Reverse Grip Row",
+    "muscles": ["Back", "Biceps"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "ez_bar",
+    "alternative_machine_id": "dumbbells"
+  },
+  {
+    "exercise": "Plank Rotation",
+    "muscles": ["Abs", "Obliques"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "none",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Front to Back Lunge",
+    "muscles": ["Quads", "Glutes"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Full to 1/2 Sumo Squat",
+    "muscles": ["Inner Thighs", "Glutes"],
+    "base_difficulty": "Advanced",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Split Squat w/ EZ Bar",
+    "muscles": ["Quads", "Glutes"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "ez_bar",
+    "alternative_machine_id": "dumbbells"
+  },
+  {
+    "exercise": "Alt. Side Squat",
+    "muscles": ["Inner Thighs", "Glutes"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Alt. Front Raise",
+    "muscles": ["Front Delts"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Plate Twist-Twist",
+    "muscles": ["Abs", "Obliques"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Superman Stretch",
+    "muscles": ["Lower Back"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "none",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Plank Twist-Twist",
+    "muscles": ["Abs", "Obliques"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "none",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Tricep Kickback",
+    "muscles": ["Triceps"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Weighted Crunch",
+    "muscles": ["Abs"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Incline Press",
+    "muscles": ["Upper Chest", "Triceps"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "adjustable_bench",
+    "alternative_machine_id": "dumbbells"
+  },
+  {
+    "exercise": "Bent-Over Row",
+    "muscles": ["Back", "Lats"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "ez_bar"
+  },
+  {
+    "exercise": "Reverse Alternating Lunge",
+    "muscles": ["Quads", "Glutes"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "1,1,2 Military Press",
+    "muscles": ["Shoulders"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Post Delt Raise",
+    "muscles": ["Rear Delts"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Bicep Curl-Up-Hammer Down",
+    "muscles": ["Biceps"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Tricep Extension-Kickback",
+    "muscles": ["Triceps"],
+    "base_difficulty": "Advanced",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Calf Raise-Weight at Shoulder",
+    "muscles": ["Calves"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Side Forearm Plank",
+    "muscles": ["Abs", "Obliques"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "none",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "EZ Push-Up + Clean + Squat",
+    "muscles": ["Full Body", "Chest", "Shoulders", "Legs"],
+    "base_difficulty": "Advanced",
+    "primary_machine_id": "ez_bar",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Deadlift + Bent-Over Row",
+    "muscles": ["Full Body", "Back", "Hamstrings"],
+    "base_difficulty": "Advanced",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "ez_bar"
+  },
+  {
+    "exercise": "Skull Crusher + Press + Crunch",
+    "muscles": ["Full Body", "Triceps", "Chest", "Abs"],
+    "base_difficulty": "Advanced",
+    "primary_machine_id": "ez_bar",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Curl + Military Press + EZ Squat",
+    "muscles": ["Full Body", "Biceps", "Shoulders", "Legs"],
+    "base_difficulty": "Advanced",
+    "primary_machine_id": "ez_bar",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Delt Raise + Reverse Lunge",
+    "muscles": ["Full Body", "Shoulders", "Legs"],
+    "base_difficulty": "Advanced",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Lat Oblique Twist",
+    "muscles": ["Abs", "Obliques"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "none",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Upright Row + Calf Raise",
+    "muscles": ["Full Body", "Shoulders", "Calves"],
+    "base_difficulty": "Advanced",
+    "primary_machine_id": "ez_bar",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Wide Plank In & Out",
+    "muscles": ["Abs", "Core"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "none",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Hanging Circle",
+    "muscles": ["Abs", "Lower Back"],
+    "base_difficulty": "Advanced",
+    "primary_machine_id": "pullup_bar",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Reverse Bent-Over Row",
+    "muscles": ["Back", "Biceps"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "ez_bar"
+  },
+  {
+    "exercise": "Preacher Curl",
+    "muscles": ["Biceps"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "adjustable_bench",
+    "alternative_machine_id": "ez_bar"
+  },
+  {
+    "exercise": "Hanging Curl",
+    "muscles": ["Biceps", "Back"],
+    "base_difficulty": "Advanced",
+    "primary_machine_id": "pullup_bar",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "All-Angle Bicep",
+    "muscles": ["Biceps"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Speed Mountain Climber",
+    "muscles": ["Abs", "Cardio"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "none",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Figure 4 Crunch",
+    "muscles": ["Abs"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "none",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Cricket Crunch",
+    "muscles": ["Abs", "Obliques"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "none",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Tempo Plank",
+    "muscles": ["Abs", "Core"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "none",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "EZ Bar Crunch",
+    "muscles": ["Abs"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "ez_bar",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Squat to Overhead Press + Hold",
+    "muscles": ["Full Body", "Legs", "Shoulders"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Toe Taps",
+    "muscles": ["Legs", "Cardio"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "adjustable_bench",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Squat to Jump Squat + Hold",
+    "muscles": ["Legs", "Plyometrics"],
+    "base_difficulty": "Advanced",
+    "primary_machine_id": "none",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Mountain Climber + Row + Plank",
+    "muscles": ["Full Body", "Abs", "Back"],
+    "base_difficulty": "Advanced",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Sumo Squat + Hold",
+    "muscles": ["Inner Thighs", "Glutes"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Weighted Burpee",
+    "muscles": ["Full Body", "Cardio"],
+    "base_difficulty": "Advanced",
+    "primary_machine_id": "dumbbells",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Crunches",
+    "muscles": ["Abs"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "none",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Hip Ups",
+    "muscles": ["Lower Abs"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "none",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Crossed Tuck-In",
+    "muscles": ["Abs"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "none",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Cobra",
+    "muscles": ["Lower Back"],
+    "base_difficulty": "Beginner",
+    "primary_machine_id": "none",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Spiderman Crunch",
+    "muscles": ["Abs", "Obliques"],
+    "base_difficulty": "Intermediate",
+    "primary_machine_id": "none",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Bucket Drop",
+    "muscles": ["Obliques"],
+    "base_difficulty": "Advanced",
+    "primary_machine_id": "none",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Window Washers",
+    "muscles": ["Abs", "Obliques"],
+    "base_difficulty": "Advanced",
+    "primary_machine_id": "none",
+    "alternative_machine_id": "none"
+  },
+  {
+    "exercise": "Beast Abs (B-E-A-S-T)",
+    "muscles": ["Abs", "Lower Abs"],
+    "base_difficulty": "Advanced",
+    "primary_machine_id": "none",
+    "alternative_machine_id": "none"
+  }
+]

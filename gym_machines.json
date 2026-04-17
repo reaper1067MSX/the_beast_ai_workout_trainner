@@ -1,0 +1,58 @@
+[
+  {
+    "id": "adjustable_bench",
+    "name": "Adjustable Weight Bench",
+    "description": "Multi-angle bench used for presses, flies, and supported rows. Can be adjusted to flat or incline positions.",
+    "image_path": "Assets/Machines/adjustable_bench.png",
+    "supported_exercises": ["Dumbbell Chest Press", "Incline Dumbbell Fly", "Incline Dumbbell Press", "One-Arm Row", "Arnold Press", "Seated Bicep Curl", "In and Outs", "Dumbbell Pull-Over", "Seated Calf Raise", "Dumbbell Scap Trap", "Preacher Curl", "Toe Taps"]
+  },
+  {
+    "id": "ez_bar",
+    "name": "EZ Bar",
+    "description": "A specialized barbell with an ergonomic 'W' shape to reduce wrist strain during curls and extensions.",
+    "image_path": "Assets/Machines/ez_bar.png",
+    "supported_exercises": ["EZ Bar Row", "Skull Crusher", "Neutral EZ Bar Curl", "Wide EZ Bar Curl", "Upright Row", "EZ Bar Underhand Press", "EZ Bar Crunch", "EZ Push-Up + Clean + Squat", "Skull Crusher + Press + Crunch", "Curl + Military Press + EZ Squat", "Upright Row + Calf Raise"]
+  },
+  {
+    "id": "dumbbells",
+    "name": "Dumbbells",
+    "description": "Pair of hand-held weights for a wide range of isolation and compound exercises.",
+    "image_path": "Assets/Machines/dumbbells.png",
+    "supported_exercises": ["Dumbbell Chest Press", "Incline Dumbbell Press", "Dumbbell Pull-Over", "Shoulder Press", "Lateral Raise", "Hammer Curl", "1,1,2 Hammer Curl", "Single Leg Calf Raise", "Deadlift", "Squat", "Sumo Squat", "Alternating Lunge", "Step-Up to Reverse Lunge", "Parallel Squat", "Bulgarian Squat", "Straight Leg Deadlift", "Alt. Side Squat", "Front to Back Lunge", "Full to 1/2 Sumo Squat", "Standing Dumbbell Shrug", "Dumbbell Scap Trap", "Sagi Six-Way", "1,1,2 Front Raise", "Rear Delt Raise", "Russian Twist", "Weighted Crunch", "Squat to Overhead Press + Hold", "Mountain Climber + Row + Plank", "Sumo Squat + Hold", "Weighted Burpee", "Delt Raise + Reverse Lunge", "Reverse Bent-Over Row", "All-Angle Bicep", "Tricep Kickback"]
+  },
+  {
+    "id": "pullup_bar",
+    "name": "Pull-Up Bar / Assisted Station",
+    "description": "A bar for hanging exercises like pull-ups and chin-ups.",
+    "image_path": "Assets/Machines/pullup_bar.png",
+    "supported_exercises": ["Pull-Up", "Close-Grip Chin-Up", "Hanging Circle", "Hanging Curl"]
+  },
+  {
+    "id": "lat_pulldown",
+    "name": "Lat Pulldown Machine",
+    "description": "Machine for training the back muscles by pulling a bar down from above.",
+    "image_path": "Assets/Machines/lat_pulldown.png",
+    "supported_exercises": ["Lat Pulldown", "Tricep Extension", "Cable Machine"]
+  },
+  {
+    "id": "cable_machine",
+    "name": "Cable Machine",
+    "description": "Versatile machine with pulleys for multiple exercise angles and constant tension.",
+    "image_path": "Assets/Machines/cable_machine.png",
+    "supported_exercises": ["Incline Dumbbell Fly", "EZ Bar Row", "Lateral Raise", "Chest Press w/ Rotation"]
+  },
+  {
+    "id": "squat_rack",
+    "name": "Squat Rack",
+    "description": "A sturdy frame used to support a barbell during squats and lunges.",
+    "image_path": "Assets/Machines/squat_rack.png",
+    "supported_exercises": ["Squat", "Deadlift", "Calf Raise", "Parallel Squat"]
+  },
+  {
+    "id": "none",
+    "name": "Bodyweight / No Equipment",
+    "description": "Exercises that only require floor space or minimal everyday objects.",
+    "image_path": "Assets/Machines/bodyweight.png",
+    "supported_exercises": ["Push-Up", "Crunch", "Reverse Alternating Lunge", "Plank Twist-Twist", "Russian Twist", "Side Forearm Plank", "Tuck & Roll", "Airplane Cobra", "Superman Stretch", "Cobra to Airplane", "Plank Rotation", "Wide Plank In & Out", "Speed Mountain Climber", "Figure 4 Crunch", "Cricket Crunch", "Tempo Plank", "Squat to Jump Squat + Hold", "Crunches", "Hip Ups", "Crossed Tuck-In", "Cobra", "Spiderman Crunch", "Bucket Drop", "Window Washers", "Beast Abs (B-E-A-S-T)"]
+  }
+]

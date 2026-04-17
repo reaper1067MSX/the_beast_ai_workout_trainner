@@ -1,0 +1,16 @@
+{
+  "max_weights": [
+    {
+      "exercise": "Dumbbell Chest Press",
+      "records": [
+        { "date": "2026-04-16", "weight_lbs": 40, "difficulty": "Advanced" }
+      ]
+    },
+    {
+      "exercise": "Deadlift",
+      "records": [
+        { "date": "2026-04-16", "weight_lbs": 60, "difficulty": "Advanced" }
+      ]
+    }
+  ]
+}

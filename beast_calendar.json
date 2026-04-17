@@ -1,0 +1,161 @@
+[
+  {
+    "block": "BLOCK 1: BUILD",
+    "weeks": [
+      {
+        "week": 1,
+        "days": [
+          { "day": 1, "routine_id": "BUILD_CHEST_TRIS" },
+          { "day": 2, "routine_id": "BUILD_LEGS" },
+          { "day": 3, "routine_id": "BUILD_BACK_BIS" },
+          { "day": 4, "routine_id": "BUILD_SHOULDERS" },
+          { "day": 5, "routine_id": "BEAST_CARDIO_ABS" },
+          { "day": 6, "routine_id": "REST" },
+          { "day": 7, "routine_id": "BUILD_CHEST_TRIS_OR_TEMPO" }
+        ]
+      },
+      {
+        "week": 2,
+        "days": [
+          { "day": 1, "routine_id": "BUILD_LEGS" },
+          { "day": 2, "routine_id": "BUILD_BACK_BIS_OR_TEMPO" },
+          { "day": 3, "routine_id": "BUILD_SHOULDERS_ABS" },
+          { "day": 4, "routine_id": "REST" },
+          { "day": 5, "routine_id": "BUILD_CHEST_TRIS_OR_TEMPO" },
+          { "day": 6, "routine_id": "BUILD_LEGS" },
+          { "day": 7, "routine_id": "BUILD_BACK_BIS_OR_TEMPO" }
+        ]
+      },
+      {
+        "week": 3,
+        "days": [
+          { "day": 1, "routine_id": "BUILD_SHOULDERS_ABS" },
+          { "day": 2, "routine_id": "REST" },
+          { "day": 3, "routine_id": "BUILD_CHEST_TRIS_OR_TEMPO" },
+          { "day": 4, "routine_id": "BUILD_LEGS" },
+          { "day": 5, "routine_id": "BUILD_BACK_BIS_OR_TEMPO" },
+          { "day": 6, "routine_id": "BUILD_SHOULDERS_ABS" },
+          { "day": 7, "routine_id": "BEAST_CARDIO_ABS_OR_TOTAL_BODY" }
+        ]
+      }
+    ]
+  },
+  {
+    "block": "BLOCK 2: BULK",
+    "weeks": [
+      {
+        "week": 1,
+        "days": [
+          { "day": 1, "routine_id": "BULK_CHEST" },
+          { "day": 2, "routine_id": "BULK_LEGS" },
+          { "day": 3, "routine_id": "BULK_BACK" },
+          { "day": 4, "routine_id": "BULK_ARMS_ABS" },
+          { "day": 5, "routine_id": "BULK_SHOULDERS" },
+          { "day": 6, "routine_id": "REST" },
+          { "day": 7, "routine_id": "BULK_CHEST" }
+        ]
+      },
+      {
+        "week": 2,
+        "days": [
+          { "day": 1, "routine_id": "BULK_LEGS" },
+          { "day": 2, "routine_id": "BULK_BACK" },
+          { "day": 3, "routine_id": "BULK_ARMS_ABS" },
+          { "day": 4, "routine_id": "BULK_SHOULDERS" },
+          { "day": 5, "routine_id": "REST" },
+          { "day": 6, "routine_id": "BULK_CHEST" },
+          { "day": 7, "routine_id": "BULK_LEGS" }
+        ]
+      },
+      {
+        "week": 3,
+        "days": [
+          { "day": 1, "routine_id": "BULK_BACK" },
+          { "day": 2, "routine_id": "BULK_ARMS_ABS" },
+          { "day": 3, "routine_id": "BULK_SHOULDERS" },
+          { "day": 4, "routine_id": "REST" },
+          { "day": 5, "routine_id": "BULK_CHEST" },
+          { "day": 6, "routine_id": "BULK_LEGS" },
+          { "day": 7, "routine_id": "BULK_BACK" }
+        ]
+      },
+      {
+        "week": 4,
+        "days": [
+          { "day": 1, "routine_id": "BULK_ARMS_ABS" },
+          { "day": 2, "routine_id": "BULK_SHOULDERS" },
+          { "day": 3, "routine_id": "REST" },
+          { "day": 4, "routine_id": "BULK_CHEST" },
+          { "day": 5, "routine_id": "BULK_LEGS" },
+          { "day": 6, "routine_id": "BULK_BACK" },
+          { "day": 7, "routine_id": "BULK_ARMS_ABS" }
+        ]
+      },
+      {
+        "week": 5,
+        "days": [
+          { "day": 1, "routine_id": "BULK_SHOULDERS" },
+          { "day": 2, "routine_id": "REST" },
+          { "day": 3, "routine_id": "BULK_CHEST" },
+          { "day": 4, "routine_id": "BULK_LEGS" },
+          { "day": 5, "routine_id": "BULK_BACK" },
+          { "day": 6, "routine_id": "BULK_ARMS_ABS" },
+          { "day": 7, "routine_id": "BULK_SHOULDERS" }
+        ]
+      },
+      {
+        "week": 6,
+        "days": [
+          { "day": 1, "routine_id": "REST" },
+          { "day": 2, "routine_id": "BULK_CHEST" },
+          { "day": 3, "routine_id": "BULK_LEGS" },
+          { "day": 4, "routine_id": "BULK_BACK" },
+          { "day": 5, "routine_id": "BULK_ARMS_ABS" },
+          { "day": 6, "routine_id": "BULK_SHOULDERS" },
+          { "day": 7, "routine_id": "REST" }
+        ]
+      }
+    ]
+  },
+  {
+    "block": "BLOCK 3: BEAST",
+    "weeks": [
+      {
+        "week": 1,
+        "days": [
+          { "day": 1, "routine_id": "BUILD_CHEST_TRIS_OR_TEMPO" },
+          { "day": 2, "routine_id": "BUILD_LEGS" },
+          { "day": 3, "routine_id": "BUILD_BACK_BIS_OR_TEMPO" },
+          { "day": 4, "routine_id": "BEAST_CARDIO_ABS" },
+          { "day": 5, "routine_id": "REST" },
+          { "day": 6, "routine_id": "BULK_ARMS" },
+          { "day": 7, "routine_id": "BUILD_SHOULDERS" }
+        ]
+      },
+      {
+        "week": 2,
+        "days": [
+          { "day": 1, "routine_id": "BULK_CHEST" },
+          { "day": 2, "routine_id": "BULK_LEGS" },
+          { "day": 3, "routine_id": "BEAST_CARDIO_ABS_OR_TOTAL_BODY" },
+          { "day": 4, "routine_id": "REST" },
+          { "day": 5, "routine_id": "BULK_BACK" },
+          { "day": 6, "routine_id": "BULK_ARMS_ABS" },
+          { "day": 7, "routine_id": "BEAST_CARDIO" }
+        ]
+      },
+      {
+        "week": 3,
+        "days": [
+          { "day": 1, "routine_id": "BUILD_CHEST_TRIS_OR_TEMPO" },
+          { "day": 2, "routine_id": "BUILD_LEGS" },
+          { "day": 3, "routine_id": "BEAST_CARDIO_ABS" },
+          { "day": 4, "routine_id": "REST" },
+          { "day": 5, "routine_id": "BUILD_BACK_BIS_OR_TEMPO" },
+          { "day": 6, "routine_id": "BULK_SHOULDERS" },
+          { "day": 7, "routine_id": "BEAST_CARDIO_ABS_OR_TOTAL_BODY" }
+        ]
+      }
+    ]
+  }
+]

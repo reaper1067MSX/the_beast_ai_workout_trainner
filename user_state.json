@@ -1,0 +1,10 @@
+{
+  "setup": {
+    "start_date": null,
+    "initial_day_offset": 0,
+    "last_access_date": null
+  },
+  "current_day": 0,
+  "difficulty": "Advanced",
+  "completed_days": []
+}
